@@ -1,0 +1,1 @@
+C# framework for OR Mapping and RESTful AJAX that can provide JSON objects to browsers, XHR, Dojo, Flash, WPF, Silverlight and other client-side UI apps.
